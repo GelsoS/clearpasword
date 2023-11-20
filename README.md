@@ -10,8 +10,12 @@ Funciona apenas no SO Linux.
 
 
 2. **Executar:**
-   Execute o arquivo `clearpassword.exe` no prompt de comando ou terminal.
+   Forneca as permissões de execução caso nao abrir com clic ou linha de comando:
+   ```bash
+   chmod +x ./clearpassword
+
+   Execute o arquivo `clearpassword` no terminal ou clicanco.
 
    ```bash
-   ./clearpassword.exe
+   ./clearpassword
 
