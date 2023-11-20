@@ -5,7 +5,7 @@ Este é um executável gerado a partir do script ClearPassword, que remove senha
 ## Instruções de Uso
 
 1. **Download:**
-   Faça o download do executável a partir da seção de releases ou construa-o usando o PyInstaller.
+   [Download Aqui](https://github.com/GelsoS/clearpasword/releases/download/untagged-b0cf71909064d7834adc/clearpassword).
 
 2. **Executar:**
    Execute o arquivo `clearpassword.exe` no prompt de comando ou terminal.
