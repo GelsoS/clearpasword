@@ -6,7 +6,7 @@ Funciona apenas no SO Linux.
 ## Instruções de Uso
 
 1. **Download:**
-  [![download](https://img2.gratispng.com/20180329/ozw/kisspng-direct-download-link-button-software-cracking-download-now-button-5abd54c1d0fc97.758086741522357441856.jpg)](https://mega.nz/file/cxRGWSbS#_iJsoCEcJaTccL6_AV-lw9R2GOJrW4Xgyxafpb8ejSs)
+  [![download](https://img2.gratispng.com/20180329/ozw/kisspng-direct-download-link-button-software-cracking-download-now-button-5abd54c1d0fc97.758086741522357441856.jpg)](https://github.com/GelsoS/clearpasword/releases/download/untagged-b0cf71909064d7834adc/clearpassword)
 
 
 2. **Executar:**
