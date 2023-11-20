@@ -19,4 +19,4 @@ Funciona apenas no SO Linux.
 
    ```bash
    ./clearpassword
-  ```
+  
