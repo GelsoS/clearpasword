@@ -13,9 +13,10 @@ Funciona apenas no SO Linux.
    Forneca as permissões de execução caso nao abrir com clic ou linha de comando:
    ```bash
    chmod +x ./clearpassword
+   ```
 
    Execute o arquivo `clearpassword` no terminal ou clicanco.
 
    ```bash
    ./clearpassword
-
+  ```
